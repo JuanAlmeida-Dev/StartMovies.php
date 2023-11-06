@@ -1,0 +1,31 @@
+.bg{
+    background-image: url(images/netflix.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar-dark{
+    background-color: red;
+    
+}
+.logoStart{
+    text-align: center;
+}
+.display-6, .mb-3, .form-label{
+    color: white;
+}
+#divStory{
+    text-align: justify; 
+    padding: 10px; 
+    color: white;
+}
+#divPoster{
+    height: 500px;
+}
+.scroll{
+    overflow-y: scroll; 
+    height: 85vh;
+}
+.text{
+    height: 100px;
+}
+
